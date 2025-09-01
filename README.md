@@ -1,6 +1,6 @@
 # 🚀 Kakao Bootcamp Pre-course
 
-![status](https://img.shields.io/badge/Status-Ended-red?style=flat-square)
+![status](https://img.shields.io/badge/Status-Ended-4caf50?style=flat-square)
 ![lang](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
 
 카카오 **클라우드 네이티브 부트캠프** 프리코스 과제를 정리한 저장소입니다.  
