@@ -9,12 +9,9 @@
 
 ---
 
-## 📌 과제 1
-- 문제 정의 및 요구사항 분석 ✍️  
-- 설계 및 구현 ⚙️  
-- 테스트 및 회고 ✅  
+## 📌 과제 설명
 
-👉 [과제 분석 & 제출물 보기](https://www.notion.so/shopping-mall/25f25e3f71a4808cb26ac273899d4775)
+👉 [노션 참고](https://www.notion.so/shopping-mall/25f25e3f71a4808cb26ac273899d4775)
 
 ---
 
