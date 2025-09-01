@@ -21,15 +21,16 @@
 ## 📂 레포 구조
 ```bash
 .
-├─ .idea/                      # IntelliJ IDEA 설정 파일
-├─ out/                        # 빌드 출력물 (컴파일 결과)
-├─ Task_1/                     # 과제 1: 동시성/모니터락 관련
-│  ├─ MonitorCheck             # 모니터 상태 확인 예제
-│  ├─ RaceCondition            # 레이스 컨디션 예제
-│  └─ RaceConditionSol         # 레이스 컨디션 해결 예제
-├─ Task_2/                     # 과제 2: 데드락 관련
+├─ .idea/                      
+├─ out/                       
+├─ ETC/MoniterCheck                       
+├─ Task_1/                     # 과제 1
+│  ├─ RaceCondition            # 경합조건 예제
+│  └─ RaceConditionSol         # 경합조건 해결 예제
+├─ Task_2/                     # 과제 2
 │  ├─ DeadlockExample          # 데드락 발생 예제
 │  ├─ DeadlockExampleFixed1    # 데드락 해결 방법 1
 │  └─ DeadlockExampleFixed2    # 데드락 해결 방법 2
-└─ README.md                   # 프로젝트 소개 문서
+└─ README.md
+                
 
